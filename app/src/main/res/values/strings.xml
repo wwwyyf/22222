@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">First_work</string>
+    <string name="user_name">林功晨</string>
+    <string name="First_Button">线性布局</string>
+    <string name="Second_Button">相对布局</string>
+    <string name="Third_Button">帧布局</string>
+    <string name="Forth_Button">表格布局</string>
+    <string name="Fifth_Button">网格布局</string>
+</resources>
